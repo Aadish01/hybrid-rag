@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/indexed_chunks.json
+.pytest_cache/
+.DS_Store

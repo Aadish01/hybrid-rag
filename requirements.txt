@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx>=0.27,<1
+anthropic
+cohere
+rank-bm25
+pypdf
+python-dotenv
